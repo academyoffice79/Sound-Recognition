@@ -1,0 +1,34 @@
+.header_div {
+    background: #fffff0;
+    color: red;
+}
+
+body {
+    font-family: 'Niconne', cursive;
+    background-color: #fff000;
+}
+
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.header_div p{
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: 900;
+}
+
+.footer {
+    position: sticky !important;
+    bottom: 0 !important;
+    width: 100% !important;
+    font-size: 18px !important;
+    text-shadow: 5px 5px 5px #00ff0f !important;
+    text-align: center !important;
+    background: #fffff0;
+    line-height: 3;
+    margin-top: 20px;
+}
